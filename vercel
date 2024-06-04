@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0ypqTkwNRGxPEUTsX30V8slVAv01qVIdB1UQSqNWa0TKMl7QVaJcjelwxFt0nacjdSCtZjutS0",
+      "permanent": true
+    }
+  ]
+}
